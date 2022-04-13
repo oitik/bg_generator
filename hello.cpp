@@ -10,4 +10,5 @@ void show_name(string name)
 int main()
 {
     show_name("oitik");
+    show_name("kitioo");
 }
